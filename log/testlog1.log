@@ -1,0 +1,19 @@
+2020-12-10 19:46:23,919 [main] INFO airLines - URL is launched
+2020-12-10 19:46:24,530 [main] INFO airLines - Entered username
+2020-12-10 19:46:24,650 [main] INFO airLines - Entered password
+2020-12-10 19:46:25,763 [main] INFO airLines - Successfully Logged in
+2020-12-10 19:48:41,614 [main] INFO airLines - URL is launched
+2020-12-10 19:48:41,734 [main] INFO airLines - Entered username
+2020-12-10 19:48:41,811 [main] INFO airLines - Entered password
+2020-12-10 19:48:48,101 [main] INFO airLines - Successfully Logged in
+2020-12-10 19:48:48,113 [main] INFO airLines - Login test passed
+2020-12-10 21:06:28,909 [main] INFO airLines - URL is launched
+2020-12-10 21:06:29,040 [main] INFO airLines - Entered username
+2020-12-10 21:06:29,158 [main] INFO airLines - Entered password
+2020-12-10 21:06:41,839 [main] INFO airLines - Successfully Logged in
+2020-12-10 21:06:41,846 [main] INFO airLines - Login test passed
+2020-12-12 20:26:03,916 [main] INFO airLines - URL is launched
+2020-12-12 20:26:04,231 [main] INFO airLines - Entered username
+2020-12-12 20:26:04,340 [main] INFO airLines - Entered password
+2020-12-12 20:26:25,475 [main] INFO airLines - Successfully Logged in
+2020-12-12 20:26:25,481 [main] INFO airLines - Login test passed
